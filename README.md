@@ -1,5 +1,5 @@
 # 🌅 GRASS
-Software for https://app.getgrass.io/ [grass]
+Software for https://app.getgrass.io/ 
 
 <div align="center">
   <img src="https://i.ibb.co/GfCgJb6y/GRASS-CUTTER.jpg" alt="GRASS-CUTTER">
