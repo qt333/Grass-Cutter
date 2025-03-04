@@ -36,7 +36,7 @@ Software for https://app.getgrass.io/
 📋 **Supported Operating System: Windows ✅ | Linux ✅**
 
 ## Pricing
-💰 $55
+💰 temporarily not for sale!
 
 🔒 Working by license key (1 PC - 1 Software)
 
