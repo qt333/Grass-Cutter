@@ -35,8 +35,10 @@ Software for https://app.getgrass.io/
 
 📋 **Supported Operating System: Windows ✅ | Linux ✅**
 
+## LASTEST VERSION OF GRASS EXTENSION (5.1.1)
+
 ## Pricing
-💰 temporarily not for sale!
+💰 55 USDT
 
 🔒 Working by license key (1 PC - 1 Software)
 
